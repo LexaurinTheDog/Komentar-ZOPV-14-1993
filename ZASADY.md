@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona citované v [01-upv-prechodna-zaverecna.md](01-upv-prechodna-zaverecna.md) (dokument e-Sbírky `SB-1993-00014_2015-01-01`), výklad, kazuistiky a protiargumenty v téže kapitole a úvodní přehled v [00-uvod.md](00-uvod.md). **Repozitář neobsahuje žádné soudní rozhodnutí ani složku judikatury k tomuto zákonu** a komentář neuvádí spisové značky. Zásady níže jsou proto dovozeny výhradně z textu zákona, jeho systematiky, ústavního rámce zániku ČSFR a výkladu v kapitole — nikoli z judikatorních tezí. Každá citace je doslovně převzata z kapitoly a u každé je uveden soubor a ustanovení, k němuž se vztahuje; citace označené jako „znění“ pocházejí z citačního bloku zákona, ostatní z výkladu komentáře.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona citované v [01-upv-prechodna-zaverecna.md](01-upv-prechodna-zaverecna.md) (dokument e-Sbírky `SB-1993-00014_2015-01-01`), výklad, kazuistiky a protiargumenty v téže kapitole a úvodní přehled v [00-uvod.md](00-uvod.md). **Složka [judikatura/](judikatura/README.md) obsahuje jedinou místní kartu rozhodnutí** — [NS 29 Odo 649/2001](judikatura/NS-29-Odo-649-2001.md) (27. 11. 2003, kat. A), citovanou v kapitole u § 2 a obsahující jen právní větu; jiné spisové značky komentář neuvádí. Zásady níže jsou dovozeny z textu zákona, jeho systematiky, ústavního rámce zániku ČSFR a výkladu v kapitole — nikoli z judikatorních tezí. Karta je připojena jen u zásady 3 jako podpůrný doklad jedné stránky této zásady (vztah civilního soudu a Úřadu). Každá citace je doslovně převzata z kapitoly a u každé je uveden soubor a ustanovení, k němuž se vztahuje; citace označené jako „znění“ pocházejí z citačního bloku zákona, ostatní z výkladu komentáře.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -101,7 +101,13 @@ Stejná logika se uplatní i u písm. b), kde Úřad vůči profesní samospráv
 
 A rovněž u písm. c), z něhož komentář nedovozuje subjektivní nárok veřejnosti: „Z písm. c) samotného neplyne subjektivní právo na bezplatné rešerše.“ ([01-upv-prechodna-zaverecna.md](01-upv-prechodna-zaverecna.md), § 2 písm. c)).
 
-Praktickým důsledkem zásady je, že majitel práva, který se domáhá zákazu porušování nebo odstranění následků, se musí obrátit na soud; před Úřadem může dosáhnout jen rozhodnutí o rozsahu ochrany (typicky v určovacím řízení), které pak slouží jako podklad v soukromoprávním sporu.
+Hranici z opačné strany — vůči civilnímu soudu — dokládá jediná místní judikaturní karta [NS 29 Odo 649/2001](judikatura/NS-29-Odo-649-2001.md), kterou kapitola cituje u § 2. Komentář z její první věty vyvozuje ([01-upv-prechodna-zaverecna.md](01-upv-prechodna-zaverecna.md), § 2):
+
+> „o zápisu ochranné známky i o zániku zapsané ochrany rozhoduje Úřad jako správní orgán v řízení podle zvláštního zákona a civilní soud nemůže jeho rozhodnutí nahradit tím, že by mu výmaz uložil. Jde o protějšek závěru, že Úřad nerozhoduje o soukromoprávních nárocích z porušení práv.“
+
+Dosah karty komentář zároveň omezuje: „Na § 2 karta míří jen nepřímo.“ a „Karta se výslovně týká jen rejstříku ochranných známek; na ostatní předměty podle písm. a) ji lze vztáhnout nanejvýš úvahou o obdobném rozdělení rolí.“ ([01-upv-prechodna-zaverecna.md](01-upv-prechodna-zaverecna.md), § 2). Karta obsahuje jen právní větu a pochází z roku 2003; zásadu proto podpírá, ale nezakládá.
+
+Praktickým důsledkem zásady je, že majitel práva, který se domáhá zákazu porušování nebo odstranění následků, se musí obrátit na soud; před Úřadem může dosáhnout jen rozhodnutí o rozsahu ochrany (typicky v určovacím řízení), které pak slouží jako podklad v soukromoprávním sporu. Naopak ten, kdo usiluje o zánik zapsané ochranné známky, se musí obrátit na Úřad (dnes návrhem na zrušení nebo prohlášení neplatnosti); žalobou v občanském soudním řízení nelze Úřadu výmaz uložit.
 
 ## 4. Zákonem vázaný výkon personální pravomoci vlády
 

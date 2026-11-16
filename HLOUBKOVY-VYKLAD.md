@@ -2,18 +2,18 @@
 
 <!-- LOCAL-HLOUBKOVY-VYKLAD-GENERATED -->
 
-> Tento soubor je aditivní analytická vrstva komentáře. Zachovává všechny dosavadní kapitoly, citace, zásady a modality a nic z nich nenahrazuje. Věcná zjištění níže vycházejí pouze z obsahu tohoto repozitáře — z úvodu [00-uvod.md](00-uvod.md), z kapitoly [01-upv-prechodna-zaverecna.md](01-upv-prechodna-zaverecna.md) a ze systematických souborů [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md). Repozitář zatím neobsahuje místní důvodovou zprávu, místní karty rozhodnutí (složka `judikatura/` se doplní strojově později) ani doslovné znění navazujících předpisů (ústavních zákonů č. 542/1992 Sb. a č. 4/1993 Sb., kompetenčního zákona, zákona o státní službě, soudního řádu správního a zvláštních zákonů o průmyslovém vlastnictví); kapitola s nimi pracuje jen ve výkladu. Chybějící místní oporu dokument označuje jako kontrolní prioritu, nikoli jako domnělý právní závěr. Každá delší citace v uvozovkách je doslovně převzata z kapitol 00 nebo 01.
+> Tento soubor je aditivní analytická vrstva komentáře. Zachovává všechny dosavadní kapitoly, citace, zásady a modality a nic z nich nenahrazuje. Věcná zjištění níže vycházejí pouze z obsahu tohoto repozitáře — z úvodu [00-uvod.md](00-uvod.md), z kapitoly [01-upv-prechodna-zaverecna.md](01-upv-prechodna-zaverecna.md) a ze systematických souborů [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md). Složka [judikatura/](judikatura/README.md) obsahuje jedinou místní kartu rozhodnutí (NS 29 Odo 649/2001, citovanou v kapitole 01 u § 2; rozbor viz vrstva 9). Repozitář neobsahuje místní důvodovou zprávu ani doslovné znění navazujících předpisů (ústavních zákonů č. 542/1992 Sb. a č. 4/1993 Sb., kompetenčního zákona, zákona o státní službě, soudního řádu správního a zvláštních zákonů o průmyslovém vlastnictví); kapitola s nimi pracuje jen ve výkladu. Chybějící místní oporu dokument označuje jako kontrolní prioritu, nikoli jako domnělý právní závěr. Každá delší citace v uvozovkách je doslovně převzata z kapitol 00 nebo 01.
 
 ## Jak mapu číst
 
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního znění předpisu — z citačních bloků § 1, § 2, § 3, § 4, § 5 a § 7 v kapitole 01 (dokument e-Sbírky `SB-1993-00014_2015-01-01`) a z doslovného znění § 1 v úvodu.
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — u tohoto komentáře zatím žádný; komentář záměrně neuvádí spisové značky a místní karty rozhodnutí dosud neexistují.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže — u tohoto komentáře jediný: první věta právní věty karty [NS 29 Odo 649/2001](judikatura/NS-29-Odo-649-2001.md) (citované u § 2), podle níž v občanském soudním řízení není dána pravomoc soudu uložit Úřadu výmaz ochranných známek z rejstříku. Jiné spisové značky komentář neuvádí.
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů — oddíly `**Výklad:**`, F. Kazuistika, G. Protiargumenty a rizika a H. Praktický závěr v kapitole 01 a úvodní přehled klíčových institutů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení; kapitola ji výslovně označuje jako **výkladovou otázku**.
 
-Místní korpus pro tuto mapu tvoří **2 soubory kapitol** (úvod 00 a věcná kapitola 01), **6 samostatně nadepsaných ustanovení** (§ 1, § 2, § 3, § 4, § 5, § 7; § 6 je zrušen a v konsolidaci není), **27 modalitních fragmentů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **8 zásad** v [ZASADY.md](ZASADY.md), **8 věcně odlišných výkladových otázek** výslovně označených v kapitole a **0 místních karet rozhodnutí**.
+Místní korpus pro tuto mapu tvoří **2 soubory kapitol** (úvod 00 a věcná kapitola 01), **6 samostatně nadepsaných ustanovení** (§ 1, § 2, § 3, § 4, § 5, § 7; § 6 je zrušen a v konsolidaci není), **27 modalitních fragmentů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **8 zásad** v [ZASADY.md](ZASADY.md), **8 věcně odlišných výkladových otázek** výslovně označených v kapitole a **1 místní karta rozhodnutí** ([NS 29 Odo 649/2001](judikatura/NS-29-Odo-649-2001.md), citovaná u § 2).
 
 Zákon stojí na třech funkcích, které je nutné v každé vrstvě držet odděleně; úvod je vymezuje takto:
 - [Co tento zákon je](00-uvod.md): „je krátký zřizovací, kompetenční a přechodový předpis, který Česká národní rada přijala v souvislosti se zánikem České a Slovenské Federativní Republiky uplynutím dne 31. 12. 1992.“
@@ -86,7 +86,7 @@ Zásadové uzly pojmenované v [ZASADY.md](ZASADY.md) a jejich textová opora:
 |---|---|---|---|
 | 1. Zákonnost zřízení a statusu ústředního orgánu | § 1 odst. 1 | ústavní požadavek zřízení správního úřadu zákonem | status sám působnost nezakládá |
 | 2. Rámcovost obecné kompetence a přednost zvláštních zákonů | § 2 | předvídatelnost pravomoci | zastaralé znění § 2 nebrání působnosti ze zvláštního zákona |
-| 3. Oddělení rozhodování o právu od vymáhání práva | § 1 odst. 1, § 2 písm. a) | dělba rolí mezi Úřadem, soudy a přestupkovými orgány | široký výklad „poskytování ochrany“ nekončí u vymáhání |
+| 3. Oddělení rozhodování o právu od vymáhání práva | § 1 odst. 1, § 2 písm. a) | dělba rolí mezi Úřadem, soudy a přestupkovými orgány | široký výklad „poskytování ochrany“ nekončí u vymáhání; opačnou stranu (civilní soud nemůže Úřadu uložit výmaz ochranné známky) dokládá karta NS 29 Odo 649/2001 |
 | 4. Zákonem vázaný výkon personální pravomoci vlády | § 1 odst. 3 | odpolitizovaná státní služba, stabilita vedení Úřadu | příslušnost vlády a služební komise je výkladovou otázkou |
 | 5. Kontinuita řízení při zániku federace | § 3 odst. 2 a 3, § 5 | právní jistota přihlašovatelů a účastníků | neplatí pro řízení o objevech |
 | 6. Ochrana nabytých práv a jejich teritorialita | § 4 | ochrana existujících ochranných dokumentů | jen práva platná k 1. 1. 1993, jen pro území ČR |
@@ -103,7 +103,7 @@ Napětí mezi zásadami je v korpusu viditelné na dvou místech. Zásada 8 vede
 
 **Hloubkový test.**
 - Nejprve formulujte regulační problém (přechod z federální úrovně, zřízení nositele působnosti), poté účel ustanovení a nakonec hodnotu, kterou pravidlo chrání.
-- U každé zásady uveďte textovou oporu, funkci, typickou situaci použití a hranici jejího dosahu; ZASADY.md čerpá výhradně z kapitoly, nikoli z judikatury.
+- U každé zásady uveďte textovou oporu, funkci, typickou situaci použití a hranici jejího dosahu; ZASADY.md čerpá z kapitoly a místní kartu NS 29 Odo 649/2001 připojuje jen u zásady 3 jako podpůrný doklad, nikoli jako zdroj zásady.
 - Při střetu kontinuity s nepříznivým zásahem rozhodněte, zda jde o pravidlo potvrzující (lze je vykládat podle smyslu i při neúplném textu), nebo zasahující (vykládá se úzce).
 - Účel přechodu ani zásada kontinuity nesmějí vytvořit pravomoc Úřadu nebo nárok účastníka, pro který místní text ani zvláštní zákon neposkytuje oporu.
 
@@ -310,6 +310,7 @@ ZOPV neobsahuje sankční ustanovení, skutkovou podstatu přestupku ani pravidl
 | přihláška jiného předmětu neskončená k 1. 1. 1993 | projednání podle dosavadních předpisů | Úřad | § 3 odst. 2 |
 | právo neplatné k 1. 1. 1993 | § 4 je neobnovuje | — | § 4 |
 | návrh mimo působnost Úřadu (zákaz výroby) | neprojednání, vyrozumění podatele, ne postoupení | Úřad; nárok před soudem | § 2 |
+| žaloba v občanském soudním řízení, aby soud uložil Úřadu výmaz ochranné známky z rejstříku | pravomoc soudu není dána (karta NS 29 Odo 649/2001, jen právní věta) | o zániku zapsané ochrany rozhoduje Úřad na návrh podle zvláštního zákona (dnes zrušení a neplatnost) | § 2 |
 | odvolání předsedy bez zákonného důvodu | rozpor se zákonem | prostředky podle ZSS, správní soud | § 1 odst. 3 |
 | nezákonné rozhodnutí Úřadu | žaloba podle s. ř. s. | správní soud příslušný podle sídla Úřadu | § 1 odst. 2 |
 | zápis ochranné známky v rozporu se zákonem | neplatnost jen při rozporu s tehdejším i dnešním zákonem | Úřad v řízení o neplatnosti | § 4 |
@@ -339,19 +340,32 @@ Jediným nepříznivým následkem zákona pro soukromé osoby je zastavení ř�
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou místní kartu rozhodnutí; složka se doplní strojově později. Místní složka tedy obsahuje **0 karet rozhodnutí**; soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly obsahují **0 citací nebo odkazů na rozhodovací praxi**, což úvod uvádí výslovně:
-- [Úvod — metodická poznámka](00-uvod.md): „Komentář neuvádí spisové značky soudních rozhodnutí — výklad jednotlivých ustanovení vychází z textu zákona, jeho systematiky, z ústavního rámce zániku ČSFR, z místně ověřeného znění navazujících zvláštních zákonů a z obecných výkladových zásad.“
-- [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje spisové značky ani judikatorní teze; repozitář neobsahuje k zákonu žádnou místní judikaturu.“
+Složka [judikatura/](judikatura/README.md) obsahuje **1 kartu rozhodnutí**: [NS 29 Odo 649/2001](judikatura/NS-29-Odo-649-2001.md) ze dne 27. 11. 2003, kat. A. Kapitola 01 ji cituje u § 2 (blok s právní větou a navazující odstavec „K místní judikaturní kartě NS 29 Odo 649/2001“); [ZASADY.md](ZASADY.md) na ni odkazuje u zásady 3. K § 1, § 3, § 4, § 5 a § 7 místní karta není a jiné spisové značky komentář neuvádí. Úvod to shrnuje:
+- [Úvod — metodická poznámka](00-uvod.md): „Z judikatury komentář cituje jediné rozhodnutí z místních zdrojů — NS 29 Odo 649/2001 u § 2“
+- [Poznámka k metodě](00-uvod.md): „Pro ZOPV z ní plyne jen první věta právní věty: v občanském soudním řízení není dána pravomoc soudu uložit Úřadu, aby z rejstříku ochranných známek vymazal ochranné známky.“
 - [Poznámka k metodě](00-uvod.md): „Kazuistiky jsou modelové situace, nikoli skutečné případy.“
 
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Ani osm zásad v [ZASADY.md](ZASADY.md) není judikatorní tezí: soubor výslovně uvádí, že zásady jsou dovozeny z textu, systematiky, ústavního rámce a výkladu kapitoly.
+**Co z karty plyne.** Karta k § 2 míří jen nepřímo: právní věta ZOPV nezmiňuje a nevykládá jeho text; její první věta se týká pravomoci civilního soudu vůči Úřadu u rejstříku ochranných známek. Pro § 2 potvrzuje rozdělení pravomoci mezi soud v občanském soudním řízení a Úřad jako správní orgán vedoucí rejstřík:
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „Na § 2 karta míří jen nepřímo.“
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „Karta však potvrzuje rozdělení pravomoci, z něhož vychází výklad § 1 a písm. a): o zápisu ochranné známky i o zániku zapsané ochrany rozhoduje Úřad jako správní orgán v řízení podle zvláštního zákona a civilní soud nemůže jeho rozhodnutí nahradit tím, že by mu výmaz uložil.“
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „Jde o protějšek závěru, že Úřad nerozhoduje o soukromoprávních nárocích z porušení práv.“
 
-Po doplnění složky `judikatura/` je třeba přednostně vyhledat a samostatně posoudit rozhodnutí k těmto otázkám:
+**Hranice použitelnosti karty.** Kapitola je vymezuje výslovně:
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „karta obsahuje jen právní větu, nikoli skutkový stav, výrok a odůvodnění, takže nelze ověřit, jaký nárok žalobce uplatnil ani o která ustanovení soud nedostatek pravomoci opřel.“
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „Rozhodnutí bylo vydáno 27. 11. 2003, tedy před 1. 4. 2004, kdy nabyl účinnosti zákon č. 441/2003 Sb. a nahradil zákon č. 137/1995 Sb.; vychází z tehdejší úpravy.“
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „Zda by závěr karty obstál beze změny i za dnešní úpravy, z karty samotné ověřit nelze; uvedená ustanovení s ním však nekolidují.“
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „Karta se výslovně týká jen rejstříku ochranných známek; na ostatní předměty podle písm. a) ji lze vztáhnout nanejvýš úvahou o obdobném rozdělení rolí.“
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „Neřeší ani to, jakým prostředkem lze rozhodnutí Úřadu napadnout“
+- [§ 2 — k místní judikaturní kartě](01-upv-prechodna-zaverecna.md): „Zbývající věty právní věty se týkají obecných otázek civilního procesu“ — posuzování procesního úkonu podle vnějšího projevu, význam omylu účastníka a rozlišení nedostatku podmínky řízení od vady žaloby; „Se ZOPV nesouvisejí a pro výklad § 2 z nich nic neplyne.“
+
+Vztah k dnešní úpravě ochranných známek (zrušení a prohlášení neplatnosti Úřadem, změny rejstříku na podkladě soudního rozhodnutí) kapitola ověřuje jen v místním komentáři k zákonu o ochranných známkách; soudní přezkum rozhodnutí Úřadu z karty neplyne. Osm zásad v [ZASADY.md](ZASADY.md) zůstává dovozeno z textu, systematiky, ústavního rámce a výkladu kapitoly; karta zásadu 3 jen podpírá.
+
+K dalším otázkám je třeba vyhledat a samostatně posoudit rozhodnutí, která místní korpus zatím nemá:
 
 | Priorita | Otázka pro rešerši | Proč je rozhodná | Místní uzel |
 |---|---|---|---|
 | 1 | vztah pravomoci vlády podle § 1 odst. 3 a příslušnosti služební komise | jediná dnes živá sporná otázka zákona | § 1 odst. 3 |
-| 2 | hranice „poskytování ochrany“ vůči vymáhání práv a postup při podání mimo působnost Úřadu | trvale živá kompetenční otázka | § 2 písm. a) |
+| 2 | hranice „poskytování ochrany“ vůči vymáhání práv a postup při podání mimo působnost Úřadu | trvale živá kompetenční otázka; stranu vůči civilnímu soudu u výmazu ochranných známek řeší karta NS 29 Odo 649/2001, vymáhání práv a postup Úřadu při podání mimo jeho působnost karta neřeší | § 2 písm. a) |
 | 3 | zápisná způsobilost a neplatnost ochranných známek zapsaných před 1. 1. 1993 | prakticky živý řetěz kontinuity u známek | § 4 |
 | 4 | územní dosah zachovaných federálních práv a rozhodnutí slovenských orgánů | teritorialita § 4 | § 4 |
 | 5 | použití dosavadních předpisů na opravné prostředky v řízeních podle § 5 | výkladová otázka § 5 | § 5 |
@@ -361,15 +375,16 @@ Po doplnění složky `judikatura/` je třeba přednostně vyhledat a samostatn�
 | 9 | vyhlášení zákona a případné zpětné působení | výkladová otázka § 7 | § 7 |
 | 10 | přístup veřejnosti k fondu patentové literatury | výkladová otázka § 2 písm. c) | § 2 písm. c) |
 
-Do doby, než bude rozhodnutí místně doloženo kartou s doslovnou citací, zůstávají všechny tyto body v epistemické kategorii **syntéza** nebo **otevřená otázka**, nikoli **judikatura**.
+Kromě strany bodu 2, kterou řeší karta NS 29 Odo 649/2001 (v občanském soudním řízení nelze Úřadu uložit výmaz ochranných známek z rejstříku), zůstávají všechny tyto body v epistemické kategorii **syntéza** nebo **otevřená otázka**, nikoli **judikatura**, dokud nebude rozhodnutí místně doloženo kartou s doslovnou citací. Žádná z osmi výkladových otázek, které kapitola výslovně označuje (vrstva 10), kartou řešena není.
 
 **Hloubkový test.**
-- U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
-- Ověřte, zda soud vykládal stejné znění — u § 1 odst. 3 jde o znění od 1. 1. 2015 a o dobové znění zákona o státní službě, u přechodných ustanovení o stav k 1. 1. 1993 a o pozdější přechodnou úpravu.
-- Rozhodnutí k zvláštnímu zákonu (patentovému zákonu, zákonu o ochranných známkách) nepřenášejte automaticky na rámcovou normu § 2 ZOPV a naopak.
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; do té doby absenci judikatury neformulujte jako ustálený závěr.
+- U karty NS 29 Odo 649/2001 nelze oddělit výrok, nosný důvod a podpůrnou úvahu, protože karta obsahuje jen právní větu; používejte ji jen v rozsahu její první věty a jen pro vztah civilního soudu a Úřadu u rejstříku ochranných známek.
+- U každého dalšího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- Ověřte, zda soud vykládal stejné znění — u § 1 odst. 3 jde o znění od 1. 1. 2015 a o dobové znění zákona o státní službě, u přechodných ustanovení o stav k 1. 1. 1993 a o pozdější přechodnou úpravu, u karty NS 29 Odo 649/2001 o úpravu ochranných známek před 1. 4. 2004.
+- Rozhodnutí k zvláštnímu zákonu (patentovému zákonu, zákonu o ochranných známkách) nepřenášejte automaticky na rámcovou normu § 2 ZOPV a naopak; i proto karta k § 2 míří jen nepřímo.
+- Jediná karta je izolovaná právní věta; její závěr nezobecňujte a z toho, že k ostatním otázkám místní karta není, nevyvozujte, že k nim rozhodnutí neexistují.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a metoda](ZASADY.md); [Úvod — metodická poznámka](00-uvod.md); [Poznámka k metodě](00-uvod.md); složka `judikatura/` se doplní strojově později.
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady a metoda](ZASADY.md); [Úvod — metodická poznámka](00-uvod.md); [Poznámka k metodě](00-uvod.md); [§ 2 — karta a odstavec k ní](01-upv-prechodna-zaverecna.md); [karta NS 29 Odo 649/2001](judikatura/NS-29-Odo-649-2001.md); [přehled složky judikatura/](judikatura/README.md).
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -429,7 +444,7 @@ Hraniční případy, v nichž změna jediné skutečnosti mění výsledek (pod
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu; u otázky 1 to znamená vzít vážně i doslovné znění první části věty § 1 odst. 3.
-- U každé varianty uveďte textový, systematický, historický a účelový argument; místní judikatorní argument zatím chybí a historický argument nelze opřít o místní důvodovou zprávu.
+- U každé varianty uveďte textový, systematický, historický a účelový argument; jediná místní karta (NS 29 Odo 649/2001) k žádné z osmi výkladových otázek nemíří, takže místní judikatorní argument pro ně není, a historický argument nelze opřít o místní důvodovou zprávu.
 - Porovnejte praktické následky variant: u přechodných ustanovení vede varianta kontinuity k zachování dne podání a práva přednosti, varianta zániku k jejich ztrátě.
 - Není-li spor místními prameny řešitelný (otázky 5 a 8), zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -519,7 +534,7 @@ Vzorová struktura přezkoumatelného řešení přechodové věci podle ZOPV (a
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **2 soubory kapitol** a 6 komentovanými paragrafy. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní judikatura chybí: složka `judikatura/` dosud neexistuje a doplní se strojově; soubor zásad proto neodkazuje na žádnou kartu s citovatelnou tezí;
+- místní judikatura je omezena na jedinou kartu ([NS 29 Odo 649/2001](judikatura/NS-29-Odo-649-2001.md)) s pouhou právní větou, vydanou v roce 2003 za úpravy ochranných známek před zákonem č. 441/2003 Sb.; kapitola ji cituje u § 2, soubor zásad u zásady 3; k § 1, § 3, § 4, § 5 a § 7 místní karta není;
 - místní důvodová zpráva v repozitáři není; historický a účelový argument stojí jen na textu a ústavním rámci;
 - doslovné znění navazujících předpisů (ústavní zákony, kompetenční zákon, zákon o státní službě, s. ř. s., zvláštní zákony) v repozitáři není; kapitola z nich cituje jen ve výkladu;
 - místní znění zákona o státní službě (účinné od 1. 1. 2026) je pozdější než konsolidace ZOPV; pro starší personální akty je nutné ověřit dobové znění;
@@ -539,8 +554,8 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Komentář k zákonu České národní rady č. 14/1993 Sb. — úvod](00-uvod.md) | ano | nenalezeno | ano | jen prohlášení o absenci | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — Celý zákon (§ 1–5, 7)](01-upv-prechodna-zaverecna.md) | ano | ano | ano | jen prohlášení o absenci | ano | ano | ano | ano |
+| [Komentář k zákonu České národní rady č. 14/1993 Sb. — úvod](00-uvod.md) | ano | nenalezeno | ano | odkaz na 1 kartu (metodická poznámka, § 2) | ano | ano | nenalezeno | ano |
+| [Kapitola 1 — Celý zákon (§ 1–5, 7)](01-upv-prechodna-zaverecna.md) | ano | ano | ano | 1 karta u § 2 s odstavcem o dosahu a hranicích | ano | ano | ano | ano |
 
 ### Úplnost po paragrafech kapitoly 01
 
@@ -556,14 +571,14 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 ### Kontrolní priority podle místní struktury
 
 - **Důkazy a aplikace:** textový signál nebyl nalezen v 1 ze 2 kapitol: [úvod](00-uvod.md); u úvodu jde o záměrné rozvržení, protože kazuistiky a důkazní katalogy jsou soustředěny v kapitole 01.
-- **Judikatura:** 0 karet ve 2 ze 2 kapitol; po doplnění složky `judikatura/` přezkoumat vrstvy 9 a 10 a soubor zásad.
+- **Judikatura:** 1 karta (NS 29 Odo 649/2001) v kapitole 01 u § 2, úvod ji uvádí v metodické poznámce; vrstvy 9 a 10 a zásada 3 byly po jejím doplnění přezkoumány; k ostatním paragrafům karta není.
 - **Časová vrstva personálních aktů:** ověřit dobové znění zákona o státní službě k aktům před 1. 1. 2026.
 
 Aktualizaci musí spustit zejména:
 - nová konsolidace ZOPV nebo místně doložená změna § 1 nebo § 2 (např. terminologická aktualizace § 2 písm. a));
 - změna zákona o státní službě v ustanoveních o vedoucím služebního úřadu, výběrovém řízení, odvolání a služební komisi;
 - změna zvláštních zákonů v ustanoveních svěřujících věci Úřadu nebo v přechodných ustanoveních k právům vzniklým před rokem 1993;
-- doplnění složky `judikatura/` a prvních místních karet;
+- doplnění dalších místních karet do složky `judikatura/` nebo místní zpřístupnění plného textu rozhodnutí NS 29 Odo 649/2001 (skutkový stav, výrok a odůvodnění);
 - místní ověření dne rozeslání částky Sbírky a doby ochrany starých označení původu;
 - rozpor mezi kapitolou a [ZASADY.md](ZASADY.md) nebo [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), nebo nefunkční odkaz.
 
@@ -595,7 +610,7 @@ Aktualizaci musí spustit zejména:
 
 ## Pravidla argumentační kázně
 
-1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte; u ZOPV zatím neexistuje místní judikatorní vrstva.
+1. Text zákona, závěr soudu, převzatou doktrínu a vlastní syntézu vždy oddělte; u ZOPV tvoří místní judikatorní vrstvu jediná karta (NS 29 Odo 649/2001) s pouhou právní větou, která k § 2 míří jen nepřímo.
 2. Každé významné tvrzení musí být dohledatelné v místním prameni nebo označené jako otevřená otázka.
 3. Míru jistoty vyjádřete jako ustálený závěr, převažující výklad, spornou otázku nebo autorský návrh; výkladové otázky kapitoly nepovyšujte na ustálené právo.
 4. Přechodový závěr nepřenášejte mimo rozhodný den a mimo předmět, pro který byl formulován; judikatorní závěr nepřenášejte mimo rozhodné znění, skutkový základ a procesní situaci.

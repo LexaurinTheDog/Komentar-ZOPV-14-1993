@@ -2,7 +2,7 @@
 
 > **Znění účinné od 1. ledna 2015** (dokument e-Sbírky `SB-1993-00014_2015-01-01`). Komentář je zpracován **výhradně z lokálních materiálů** — z konsolidovaného znění v místní kopii e-Sbírky, z místně dostupného znění souvisejících předpisů (zejména zákona o státní službě, kompetenčního zákona, ústavních zákonů o zániku federace a zvláštních zákonů o průmyslovém vlastnictví) a z místních komentářů; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Místní zdroj u tohoto znění neuvádí konec účinnosti; jde o aktuální znění dostupné v místní kopii a pozdější změny, které místně doložené nejsou, komentář netvrdí. Komentář neuvádí spisové značky soudních rozhodnutí — výklad jednotlivých ustanovení vychází z textu zákona, jeho systematiky, z ústavního rámce zániku ČSFR, z místně ověřeného znění navazujících zvláštních zákonů a z obecných výkladových zásad. Sporná místa jsou výslovně označena jako **výkladová otázka**.
+> **Metodická poznámka:** Místní zdroj u tohoto znění neuvádí konec účinnosti; jde o aktuální znění dostupné v místní kopii a pozdější změny, které místně doložené nejsou, komentář netvrdí. Výklad jednotlivých ustanovení vychází z textu zákona, jeho systematiky, z ústavního rámce zániku ČSFR, z místně ověřeného znění navazujících zvláštních zákonů a z obecných výkladových zásad. Z judikatury komentář cituje jediné rozhodnutí z místních zdrojů — NS 29 Odo 649/2001 u § 2 (viz [judikatura/](judikatura/README.md)); jiné spisové značky neuvádí. Sporná místa jsou výslovně označena jako **výkladová otázka**.
 
 ---
 
@@ -49,7 +49,7 @@ Vnitřní logika zákona je jednoduchá: nejprve zřizuje orgán a vymezuje jeho
 
 **Předseda a jeho vazba na zákon o státní službě (§ 1 odst. 3).** Předsedu jmenuje a odvolává vláda, ale jeho výběr, jmenování a odvolání se od 1. 1. 2015 řídí zákonem o státní službě. Předseda je vedoucím služebního úřadu; výběrové řízení se koná vždy a odvolání je možné jen ze zákonných důvodů. Vztah mezi pravomocí vlády a příslušností služební komise podle zákona o státní službě je **výkladovou otázkou**.
 
-**Rámcová působnost (§ 2).** Výčet působnosti není samostatným zmocněním k vydávání jednotlivých rozhodnutí; konkrétní rozhodovací pravomoci je vždy třeba opřít o zvláštní zákon. Slova „rozhoduje o poskytování ochrany“ se vykládají široce — zahrnují řízení o vzniku, rozsahu i zániku ochrany (udělení, zrušení, výmaz, odnětí, určení, nucená licence), nikoli vymáhání práv proti rušitelům. Úřad dále plní zkušební a dozorovou funkci vůči profesní samosprávě patentových zástupců a vede ústřední fond světové patentové literatury.
+**Rámcová působnost (§ 2).** Výčet působnosti není samostatným zmocněním k vydávání jednotlivých rozhodnutí; konkrétní rozhodovací pravomoci je vždy třeba opřít o zvláštní zákon. Slova „rozhoduje o poskytování ochrany“ se vykládají široce — zahrnují řízení o vzniku, rozsahu i zániku ochrany (udělení, zrušení, výmaz, odnětí, určení, nucená licence), nikoli vymáhání práv proti rušitelům. Místní karta NS 29 Odo 649/2001 (citovaná u § 2) dokládá druhou stranu této dělby: v občanském soudním řízení nelze Úřadu uložit, aby z rejstříku ochranných známek vymazal ochranné známky; karta obsahuje jen právní větu a pochází z roku 2003. Úřad dále plní zkušební a dozorovou funkci vůči profesní samosprávě patentových zástupců a vede ústřední fond světové patentové literatury.
 
 **Zastavení řízení o objevech (§ 3 odst. 1).** Řízení o přihláškách objevů neskončená k 1. 1. 1993 se zastavují přímo ze zákona. Jako pozdější a speciální úprava má ustanovení přednost před § 77 patentového zákona, který jejich dokončení podle dosavadních předpisů původně přikazoval.
 
@@ -99,13 +99,13 @@ Zákon má v místní konsolidaci **šest paragrafových jednotek** (§ 1–5, �
 |---|---|---|
 | [01](01-upv-prechodna-zaverecna.md) | **Úřad průmyslového vlastnictví a přechod z federální úpravy** — status, sídlo a předseda Úřadu, rámcová působnost, přechodná ustanovení k přihláškám, ochranným dokumentům a sporným řízením, účinnost | § 1–5, § 7 |
 
-Doprovodné dokumenty: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovnými citacemi z kapitoly) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) (mapa právních modalit v doslovném znění zákona).
+Doprovodné dokumenty: [ZASADY.md](ZASADY.md) (právní zásady doložené doslovnými citacemi z kapitoly), [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) (mapa právních modalit v doslovném znění zákona) a složka [judikatura/](judikatura/README.md) s jedinou místní kartou rozhodnutí (NS 29 Odo 649/2001, citovanou u § 2).
 
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** (bez elips) z dokumentu e-Sbírky `SB-1993-00014_2015-01-01`, pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr a kontrolní checklist.
 - Odkazy na související předpisy vycházejí z jejich místně dostupného znění; tam, kde je místní znění pozdější než konsolidace ZOPV (zejména zákon o státní službě), komentář upozorňuje na nutnost ověřit znění rozhodné ke dni posuzovaného aktu.
-- Komentář neobsahuje spisové značky ani judikatorní teze; repozitář neobsahuje k zákonu žádnou místní judikaturu. Otázky, které místní zdroje jednoznačně neřeší (např. povaha úkonu konstatujícího zastavení řízení o objevech, dosah § 3 odst. 3 na úkony federálního úřadu, den rozeslání částky Sbírky), jsou označeny jako **výkladová otázka**.
+- Komentář pracuje s jedinou místní judikaturní kartou: [NS 29 Odo 649/2001](judikatura/NS-29-Odo-649-2001.md) (27. 11. 2003, kat. A), citovanou v kapitole 01 u § 2. Pro ZOPV z ní plyne jen první věta právní věty: v občanském soudním řízení není dána pravomoc soudu uložit Úřadu, aby z rejstříku ochranných známek vymazal ochranné známky. Na § 2 karta míří jen nepřímo — potvrzuje rozdělení pravomoci mezi civilní soud a Úřad jako správní orgán vedoucí rejstřík. Karta obsahuje jen právní větu bez skutkového stavu a odůvodnění, rozhodnutí bylo vydáno před účinností zákona č. 441/2003 Sb. za tehdejší úpravy a zbývající věty právní věty řeší obecné otázky civilního procesu bez vztahu k ZOPV. K § 1, § 3, § 4, § 5 a § 7 místní karta není. Otázky, které místní zdroje jednoznačně neřeší (např. povaha úkonu konstatujícího zastavení řízení o objevech, dosah § 3 odst. 3 na úkony federálního úřadu, den rozeslání částky Sbírky), jsou označeny jako **výkladová otázka**.
 - Kazuistiky jsou modelové situace, nikoli skutečné případy.
 
 ---
