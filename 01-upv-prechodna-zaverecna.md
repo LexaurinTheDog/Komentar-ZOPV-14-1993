@@ -95,6 +95,11 @@ Zákon neupravuje místopředsedu, vnitřní organizaci Úřadu ani zastupován�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 649/2001](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F36FECD8A0A51D14C1257A4E00696E92?openDocument) — 27. 11. 2003, kat. A
+  > „Není dána pravomoc soudu uložit v občanském soudním řízení Úřadu průmyslového vlastnictví, aby z rejtříku ochranných známek vymazal označené ochranné známky. *) Každý procesní úkon je nutno posuzovat podle toho, jak byl navenek projeven, nikoliv podle toho, jestli mezi projeveným procesním úkonem a vnitřní vůlí jednajícího je skutečný souhlas. Ani podstatný omyl účastníka mezi tím, co procesním úkonem projevil a tím, co jím projevit chtěl, nemá na procesní úkon a jeho účinnost žádný vliv. Nedostatek podmínky řízení ve smyslu § 103 o. s. ř. není vadou žaloby z hlediska její správnosti či úplnosti a vada žaloby naopak nepředstavuje nedostatek podmínky řízení"
+
 #### Povaha výčtu
 
 § 2 vymezuje působnost Úřadu **rámcově** ve třech okruzích. Nejde o samostatné zmocnění k vydávání jednotlivých rozhodnutí. Podmínky, druhy řízení, lhůty a účinky rozhodnutí stanoví vždy zvláštní zákon. Úřad proto nemůže jen s oporou v § 2 písm. a) poskytnout ochranu předmětu, pro nějž zvláštní zákon ochranu nezakládá. Naopak působnost, kterou Úřadu svěří zvláštní zákon nad rámec slov § 2, není vyloučena tím, že § 2 nebyl novelizován. Výčet je třeba číst spolu se zvláštními zákony, které na ZOPV navazují.
